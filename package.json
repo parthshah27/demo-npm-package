@@ -1,9 +1,28 @@
 {
-  "name": "@parth/request-multi-urls",
+  "name": "@parthshah27/request-multi-urls",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
     "node-fetch": "^3.0.0",
     "request": "^2.88.2"
-  }
+  },
+  "description": "This package will help to get json data from multiple url",
+  "main": "demo-pr.js",
+  "devDependencies": {
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthshah27/demo-npm-package.git"
+  },
+  "author": "ParthShah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthshah27/demo-npm-package/issues"
+  },
+  "homepage": "https://github.com/parthshah27/demo-npm-package#readme"
 }
