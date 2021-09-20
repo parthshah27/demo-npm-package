@@ -1,0 +1,9 @@
+{
+  "name": "@parth/request-multi-urls",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
