@@ -49,7 +49,7 @@ const isJsonStringified = (value) => {
 
 
 /* Works as of Node 12.6 */
-module.exports = async function getParallel(urlArray = []) {
+module.exports = async function getUrlContent(urlArray = []) {
     //transform requests into Promises, await all
     try {
         if (urlArray.length != 0) {
